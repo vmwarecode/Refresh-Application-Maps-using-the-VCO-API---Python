@@ -5,7 +5,7 @@
 #
 # This script assumes the user is an OPERATOR admin.
 #
-# Usage: VC_USERNAME='user@velocloud.net' VC_PASSWORD=s3cret python3 refresh_application_maps.py
+# Usage: VCO_HOSTNAME='vcoX.velocloud.net' VC_USERNAME='user@velocloud.net' VC_PASSWORD=s3cret python3 refresh_application_maps.py
 #
 
 import os
